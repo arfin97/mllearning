@@ -1,4 +1,4 @@
-20 Oct - 27 Oct: 
+*20 Oct - 27 Oct:* 
 
 Basic Algebra: Khan Academy: Algebra 2: https://www.khanacademy.org/math/algebra2
 
