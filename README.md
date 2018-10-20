@@ -22,7 +22,7 @@ Calculus:  3Blue1Brown: Calculus Playlist: https://www.youtube.com/watch?v=WUvTy
 
 Probability: Khan Academy: Probability: https://www.khanacademy.org/math/statistics-probability
 
-## *02 Dec - 08 Dec: and  08 Dec - 15 Dec: *
+## *02 Dec - 08 Dec: and  08 Dec - 15 Dec:*
 
 Algorithms: Coursara: Algorithm 1: https://www.edx.org/course/algorithms-and-data-structures-1
 
