@@ -12,7 +12,9 @@ Linear Algebra: 3Blue1Brown: Linear Algebra Playlist: https://www.youtube.com/wa
 
 Calculus: Khan Academy: Calculus 1: https://www.khanacademy.org/math/calculus-1
 
-## *11 Nov - 17 Nov: Midterm Examination: *
+## *11 Nov - 17 Nov:*
+
+Midterm Examination: 
 
 ## *17 Nov - 24 Nov:*
 
@@ -28,7 +30,9 @@ Algorithms: Coursara: Algorithm 1: https://www.edx.org/course/algorithms-and-dat
 
 Data Camp Practice: https://www.datacamp.com/courses/deep-learning-in-python
 
-## *16 Dec - 22 Dec:  Final Examination*
+## *16 Dec - 22 Dec:*
+
+Final Examination
 
 ## *23 Dec - 29 Dec:*
 
