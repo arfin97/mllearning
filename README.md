@@ -21,7 +21,7 @@ Midterm Examination:
 Calculus:  3Blue1Brown: Calculus Playlist: https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 
 ## *25 Nov - 01 Dec:*
-
+Statistics and probability: Khan Academy:  https://www.khanacademy.org/math/statistics-probability
 Probability: Khan Academy: Probability: https://www.khanacademy.org/math/statistics-probability
 
 ## *02 Dec - 08 Dec: and  08 Dec - 15 Dec:*
